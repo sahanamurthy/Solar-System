@@ -131,3 +131,5 @@ while true
     break
   end
 end
+
+# Solar System project a success!
